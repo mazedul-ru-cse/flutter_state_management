@@ -1,4 +1,4 @@
-# bloc_pattern
+# Flutter State Management
 
 A new Flutter project.
 
